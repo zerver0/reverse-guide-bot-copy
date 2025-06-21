@@ -1,0 +1,11 @@
+{
+  "name":"[Character Name]",
+  "color":[129, 56, 56],
+  "element":"[Link to image of the element symbol of the character",
+  "rarity":"[Rarity]",
+  "tags":"[Tags of the chracter]",
+  "text":"[Text description of the character, new lines need to be replaced with \n]",
+  "portrait":"[Link to portrait image of the character]",
+  "image":"[Link to info image of the character]",
+  "footer":"[Footer if necessary]"
+}
